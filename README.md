@@ -167,15 +167,14 @@ https://www.youtube.com/c/チャンネル名？<br>
 </p>
 <h3>4.2 実験結果</h3>
 
-<p>出力内容、実行画面などを示すこと。
-   うまくいった例とうまくいかなかった例があるとよい。</p>
+
 <p>
 	入力URL:	<br>
 	https://www.youtube.com/user/HikakinTV<br>
 https://www.youtube.com/c/junchannel<br>
 https://www.youtube.com/c/koyakky-ch<br><br>
 
-結果画像：<br>
+結果画像：準備中<br>
 <img src="image/p1.png" width="900" height="600">
 <img src="image/p2.png" width="900" height="600">
 <img src="image/p3.png" width="900" height="600">
